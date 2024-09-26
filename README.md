@@ -3,7 +3,7 @@ This is a simple implementation of the K-Nearest Neighbors algorithm from scratc
 
 ## Basic Theory
 
-K-Nearest Neighbors is an algorithm that places the training data in a multi-dimensional space and classifies new data points based on how close they are to the clusters of training data. This "closeness" is determined by a distance metric, such as Euclidean distance. 
+K-Nearest Neighbors is a supervised learning algorithm that places the training data in a multi-dimensional space and classifies new data points based on how close they are to the clusters of training data. This "closeness" is determined by a distance metric, such as Euclidean distance. 
 
 $$
 \begin{equation}
